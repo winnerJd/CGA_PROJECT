@@ -122,6 +122,23 @@ fill("indigo");
 ellipse(200, 200, 100, 100);
 fill("violet");
 ellipse(200, 200, 40, 40);
+#lev 8
+//1) Debug this program to make the cloud wider than it is tall, like in the image.
+
+// Draw sky
+background("skyblue");
+
+// Draw sun
+fill("yellow");
+ellipse(300,50,50,50);
+
+// Draw grass
+fill("green");
+rect(0,300,400,100);
+
+// Draw cloud
+fill("white");
+ellipse(150,100,200,100);
 
 
 

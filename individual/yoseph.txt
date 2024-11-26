@@ -1,4 +1,10 @@
 #lesson 1 :programming for purpose
 #In this lesson 1  i have covered some interactive animation and game rapid survey and 
  some game design templates
-#in this lesson 2 i have explored tool that lets me draw different colored shapes. 
+#in this lesson 2 i have explored tool that lets me draw different colored shapes.
+
+# lesson 3 drawing in game lab
+in this lesson 3 level 2
+i have Changed the numbers inside the block,  and Tried to place the rectangle near the bottom right of the screen.
+rect(381,380);
+  

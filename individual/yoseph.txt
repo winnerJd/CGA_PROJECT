@@ -75,6 +75,14 @@ rect(100,100,100,200);
 
 fill("red");
 rect(250,100,100,300);
+#lesson 4 level 3
+//1) Add an orange ellipse to the screen that is taller than the green one
+//2) Rearrange the blocks so the orange ellipse is behind the green one
+fill("orange");
+ellipse(215,215,215,300);
+
+fill("green");
+ellipse(200,200,150,110);
 
 
 

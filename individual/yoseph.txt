@@ -7,4 +7,9 @@
 in this lesson 3 level 2
 i have Changed the numbers inside the block,  and Tried to place the rectangle near the bottom right of the screen.
 rect(381,380);
+#lesson 3 level 3
+1) Place two rectangles exactly in the corners of the screen
+rect(0,0);
+
+
   

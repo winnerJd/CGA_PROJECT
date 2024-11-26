@@ -20,6 +20,13 @@ fill("yellow");
 // 3) Add a new square to the image
 
 rect(200, 200);
+#lesson 3 level 5
+//2) Change the red rectangle's color to green.
+//3) Change the order of the code so the green rectangle appears on top.
+fill("green");
+rect(200, 200);
+fill("blue");
+rect(175,175);
 
 
   

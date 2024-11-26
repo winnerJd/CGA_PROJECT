@@ -69,6 +69,12 @@ rect(49,300);
 rect(100,350);
 rect(150,350);
 rect(200,300);
+#lesson 4 level 2
+fill("blue");
+rect(100,100,100,200);
+
+fill("red");
+rect(250,100,100,300);
 
 
 

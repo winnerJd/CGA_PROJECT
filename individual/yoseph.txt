@@ -48,6 +48,16 @@ rect(250,200)
 fill("red")
 ellipse(150,250)
 ellipse(249,249)
+#lesson 3 level 8 debbuging
+//2) Change the code so it makes the picture in the instructions
+
+fill("orange");
+ellipse(150,150);
+ellipse(200,150);
+ellipse(150,200);
+ellipse(200,200);
+fill("purple");
+rect(150, 150);
 
 
 

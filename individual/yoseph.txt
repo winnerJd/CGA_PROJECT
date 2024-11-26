@@ -58,6 +58,17 @@ ellipse(150,200);
 ellipse(200,200);
 fill("purple");
 rect(150, 150);
+# lesson 3 level 9 challenge :face
+fill("slateblue");
+ellipse(123, 182);
+ellipse(225, 180);
+fill("red");
+ellipse(172,270);
+fill("green");
+rect(49,300);
+rect(100,350);
+rect(150,350);
+rect(200,300);
 
 
 

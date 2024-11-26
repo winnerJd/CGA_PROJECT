@@ -27,6 +27,12 @@ fill("green");
 rect(200, 200);
 fill("blue");
 rect(175,175);
+#lesson 3 level 6
+fill("teal");
+ellipse(100,100);
+//2) Add a new ellipse of a different color.
+fill("yellow");
+ellipse(200, 200);
 
 
   

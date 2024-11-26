@@ -139,6 +139,16 @@ rect(0,300,400,100);
 // Draw cloud
 fill("white");
 ellipse(150,100,200,100);
+#lev 9
+fill("red");
+shape(200, 200, 0, 400, 400, 400);
+fill("blue");
+shape(200, 200, 0, 0, 400, 0);
+//2) Finish the code so it matches the picture
+fill("yellow");
+shape(400, 0, 400, 400, 200, 200);
+fill("green");
+shape(0, 0, 0, 400, 200, 200);
 
 
 

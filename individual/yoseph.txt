@@ -107,6 +107,21 @@ ellipse(350,50,50,50);
 // Draw grass
 fill("green");
 rect(0,300,400, 200);
+#lev 7
+fill("red");
+ellipse(200, 200, 400, 400);
+fill("orange");
+ellipse(200, 200, 340, 340);
+fill("yellow");
+ellipse(200, 200, 280, 280);
+fill("green");
+ellipse(200, 200, 220, 220);
+fill("blue");
+ellipse(200, 200, 160, 160);
+fill("indigo");
+ellipse(200, 200, 100, 100);
+fill("violet");
+ellipse(200, 200, 40, 40);
 
 
 
